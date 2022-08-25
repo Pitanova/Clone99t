@@ -5,7 +5,7 @@
 ## Languages and Tools 🛠️
 
 ## Game Dev
-[![My Skills](https://skillicons.dev/icons?i=godot)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=godot,unity,unreal&perline=1)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=unity)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=unreal)](https://skillicons.dev)
 
